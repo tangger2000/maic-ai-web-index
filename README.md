@@ -1,2 +1,12 @@
-# maic-ai-web-index
-maic-ai-web-index
+# 团队 AI 软件首页
+
+这是一个基于 Vue 3 和 Vite 构建的简单网页，用于展示团队常用的人工智能软件及下载链接。
+
+## 本地运行
+
+```bash
+npm install
+npm run dev
+```
+
+打开浏览器访问输出的本地地址即可查看页面效果。
